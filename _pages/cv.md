@@ -1,8 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
+permalink: assets/pdf/ajseo_cv.pdf
 title: cv
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+nav_order: 3
+cv_pdf: ajseo_cv.pdf
 ---

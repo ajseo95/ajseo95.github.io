@@ -44,10 +44,20 @@ layout: default
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
+          <br>
+
           {% if page.selected_papers -%}
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
+          <br>
+
+          {% if page.work -%}
+          <!-- Selected papers -->
+          {%- include work.html %}
+          {%- endif %}
+          <br>
+
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
