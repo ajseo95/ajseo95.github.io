@@ -19,7 +19,7 @@ others: true
 Hi, I'm a researcher at <a href="https://research.samsung.com/">Samsung research</a>, Korea.
 My primary research goal is to <b>develop robustly reasoning AI like humans</b> through structured and disentangled inference.
 
-I’m especially interested in developing logical and consistent reasoning structures in NLP or multi-modal fields, especially injecting knowledge with graph or neuro-symbolic approaches.
+I’m especially interested in developing logical and consistent reasoning structures in NLP or multi-modal fields, especially injecting knowledge with graph structures or neuro-symbolic approaches.
 Before working for Samsung, I worked at <a href="https://bi.snu.ac.kr/">BI Lab</a> and got my Master's degree at Seoul National University, 
 advised by professor <a href="https://bi.snu.ac.kr/~btzhang/">Byoung-Tak Zhang</a>.
 
